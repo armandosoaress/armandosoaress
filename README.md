@@ -2,7 +2,7 @@
 Experiência em desenvolvimento back-end, utilizando PHP e frameworks como Laravel e CodeIgniter. Focando na otimização de processos, incorporando tecnologias, como o Microsoft Copilot e o ChatGPT, para acelerar o desenvolvimento e melhorar a produtividade.
 <h3 align="center"></h3>
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FF00F6&color=FFF)](https://api.whatsapp.com/send?phone=5588999722046&text=Olá)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FF00F6&color=FFF)](https://api.whatsapp.com/send?phone=5588999722046)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/armandosoares/)
 
 </div>
