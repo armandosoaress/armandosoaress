@@ -42,9 +42,6 @@ Experiência em desenvolvimento back-end, utilizando PHP e frameworks como Larav
   <a href="https://github.com/armandosoaress/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=armandosoaress&custom_title=Mais%20usado&line_height=10&card_width=290&layout=compact&hide_title=true&count_private=true&langs_count=7&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages" style="width: 20vw;">
   </a>
-  <a href="https://github.com/armandosoaress/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=armandosoaress&show_icons=true&theme=radical&border_radius=5&count_private=true&hide=stars,contribs" alt="GitHub Stats" style="width: 28vw;">
-  </a>
 </div>
 
 
